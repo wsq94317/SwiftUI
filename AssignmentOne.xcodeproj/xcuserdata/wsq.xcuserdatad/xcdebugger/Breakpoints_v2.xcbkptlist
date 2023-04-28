@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "279D0701-13CD-4E36-B219-8162354CE878"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0762D382-6751-4E2A-BD4E-7838D16B8A3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+=======
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+>>>>>>> MileStone3
+            landmarkName = "ContentView_Previews"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "146749C7-A1B2-45E0-8D66-3A562D14E092"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+=======
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+>>>>>>> MileStone3
+            landmarkName = "fileurl"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0B6554F-4540-468E-8A6B-24D6E46952D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/AssignmentOneApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+=======
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+>>>>>>> MileStone3
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B0B6554F-4540-468E-8A6B-24D6E46952D3 - 2b5122b50aad9fbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.AssignmentOneApp.init() -&gt; AssignmentOne.AssignmentOneApp"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/AssignmentOneApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B0B6554F-4540-468E-8A6B-24D6E46952D3 - 5d8f684ee74c03f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; AssignmentOne.ContentView in AssignmentOne.AssignmentOneApp.body.getter : some"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/AssignmentOneApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F21740FA-B908-4388-A747-6D3E257D501E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+=======
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+>>>>>>> MileStone3
+            landmarkName = "loadCheckData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F21740FA-B908-4388-A747-6D3E257D501E - c4d538ac18d553bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.saveCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "F21740FA-B908-4388-A747-6D3E257D501E - cc137ddb6d87614c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "F21740FA-B908-4388-A747-6D3E257D501E - cc137ddb6d87614c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "F21740FA-B908-4388-A747-6D3E257D501E - cc137ddb6d8765d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "F21740FA-B908-4388-A747-6D3E257D501E - cc137ddb6d8765d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39476E6E-99D1-4B67-B008-F1BC2ADF8345"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+=======
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+>>>>>>> MileStone3
+            landmarkName = "loadCheckData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39476E6E-99D1-4B67-B008-F1BC2ADF8345 - cc137ddb6d879e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "39476E6E-99D1-4B67-B008-F1BC2ADF8345 - cc137ddb6d879e37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "39476E6E-99D1-4B67-B008-F1BC2ADF8345 - cc137ddb6d8762bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.loadCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4B6FCEC-771C-44A6-8D0B-A58BCA5DE4DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+=======
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+>>>>>>> MileStone3
+            landmarkName = "saveCheckData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4B6FCEC-771C-44A6-8D0B-A58BCA5DE4DA - 78965d2cff6017f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.init() -&gt; AssignmentOne.CheckListDataModel"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "F4B6FCEC-771C-44A6-8D0B-A58BCA5DE4DA - c4d538ac18d55131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.saveCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "F4B6FCEC-771C-44A6-8D0B-A58BCA5DE4DA - c4d538ac18d556b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckListDataModel.saveCheckData() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8282DBDB-1EF2-44A2-B451-3DEE5BDFFEC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+=======
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+>>>>>>> MileStone3
+            landmarkName = "setUncheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDF91525-67F1-4E74-9E46-C843F09DF5C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+=======
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+>>>>>>> MileStone3
+            landmarkName = "fileurl"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5457651-1AD7-46B9-9D08-E4404C4025C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+=======
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+>>>>>>> MileStone3
+            landmarkName = "undoUncheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "015D1C61-6D13-49A7-B7E4-331A9286DA59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+=======
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+>>>>>>> MileStone3
+            landmarkName = "undoUncheckAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "525BB768-AFF1-41C1-A8EA-F623FA8BE206"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+=======
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+>>>>>>> MileStone3
+            landmarkName = "undoUncheckAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "525BB768-AFF1-41C1-A8EA-F623FA8BE206 - 432c2df28b847971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckList.undoUncheckAll() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "525BB768-AFF1-41C1-A8EA-F623FA8BE206 - 432c2df28b847971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AssignmentOne.CheckList.undoUncheckAll() -&gt; ()"
+                  moduleName = "AssignmentOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wsq/Documents/AssignmentOne/AssignmentOne/Struct.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "873B921B-6135-4495-AF8B-01DB167D724C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AssignmentOne/Struct.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+=======
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+>>>>>>> MileStone3
+            landmarkName = "resetAllHistory()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
